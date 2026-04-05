@@ -1,12 +1,12 @@
-# Neo-Serene Theme
+# Serene Focus Theme
 
-> **Neo-Serene Theme** — A futuristic VS Code theme that's soft on the eyes and sharp on the syntax — featuring a balanced, calming palette for both day and night coding.
+> **Serene Focus Theme** — Soft on the eyes, sharp on syntax — a modern theme with subtle neon accents for day and night coding.
 
 ---
 
 ## ✨ Features
 
-- 🌗 **Dual Variants:** **Neo-Serene Light** (bright & airy with warm ivory tones) and **Neo-Serene Dark** (deep & tranquil with rich slate hues).
+- 🌗 **Dual Variants:** **Serene Focus Light** (bright & airy with warm ivory tones) and **Serene Focus Dark** (deep & tranquil with rich slate hues).
 - 🧠 **Semantic Highlighting:** Clear visual hierarchy for functions, classes, and variables.
 - 🎨 **Trending 2026 Palette:** Carefully selected colors that are easy on the eyes and reduce fatigue during long coding sessions.
 - 💻 **Wide Language Coverage:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, Java, C/C++, Ruby, Go, Rust, Vue, React, Next.js, GraphQL, SQL, and more.
@@ -15,30 +15,16 @@
 
 ---
 
-## 🧭 The Story Behind Neo-Serene
-
-Neo-Serene was born from the desire to merge **2026's trending color forecasts** with practical developer needs. The palette features:
-
-- **Limelight** — a warm, energetic yellow-green for keywords and accents
-- **Quiet Teal** — a soothing blue-green for functions and methods
-- **Digital Lavender** — a soft purple for numbers and styled components
-- **Hydro (Aqua Haze)** — a calm cyan for special operators and type hints
-- **Quiet Coral** — a gentle red-orange for errors and deletions
-
-These colors were chosen to minimize eye strain while maintaining excellent contrast and modern aesthetics.
-
----
-
 ## 🖼️ Previews
 
-### ☀️ Neo-Serene Light
+### ☀️ Serene Focus Light
 
-![Neo-Serene Light Preview](https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/light-theme.png)  
+![Serene Focus Light Preview](https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/light-theme.png)  
 _Bright and balanced with creamy ivory background — ideal for daytime coding._
 
-### 🌙 Neo-Serene Dark
+### 🌙 Serene Focus Dark
 
-![Neo-Serene Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/dark-theme.png)  
+![Serene Focus Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/dark-theme.png)  
 _Deep and tranquil with rich slate background — perfect for late-night sessions._
 
 ---
@@ -46,31 +32,24 @@ _Deep and tranquil with rich slate background — perfect for late-night session
 ## 🛠 Installation
 
 1. Open **VS Code → Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`).
-2. Search for **Neo-Serene Theme** and click **Install**.
-3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Neo-Serene Light** or **Neo-Serene Dark**.
-4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.neo-serene-theme).
-
----
-
-## 🧩 Contributing
-
-Found a bug or want to suggest an improvement?  
-Open an issue or pull request on [GitHub](https://github.com/ovcharovcoder/neo-serene-theme).
+2. Search for **Serene Focus Theme** and click **Install**.
+3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Serene Focus Light** or **Serene Focus Dark**.
+4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.Serene Focus-theme).
 
 ---
 
 ## 👤 Author
 
-<img src="https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/avatar.png" alt="Andriy Ovcharov" width="60px">
+<img src="https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/images/avatar.png" alt="Andrii Ovcharov" width="60px">
 
-**Andriy Ovcharov**  
+**Andrii Ovcharov**  
 📧 ovcharovcoder@gmail.com
 
 ---
 
 ## ☕ Support
 
-If you enjoy Neo-Serene, consider buying me a coffee:  
+If you enjoy Serene Focus, consider buying me a coffee:  
 [Donate via PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
 
 ---
@@ -80,6 +59,7 @@ If you enjoy Neo-Serene, consider buying me a coffee:
 Released under the [MIT License](https://raw.githubusercontent.com/ovcharovcoder/neo-serene-theme/main/LICENSE)
 
 Built with calm precision and futuristic soul. ✨
+
 
 ---
 
