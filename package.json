@@ -1,0 +1,61 @@
+{
+  "name": "neo-serene-theme",
+  "displayName": "Neo-Serene Theme",
+  "description": "A futuristic VS Code theme with trending 2026 colors — soft on the eyes, sharp on the syntax. Featuring Limelight, Quiet Teal, and Digital Lavender for both day and night coding.",
+  "version": "1.0.0",
+  "publisher": "ovcharovcoder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovcharovcoder/neo-serene-theme.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "light",
+    "theme",
+    "vs code",
+    "vscode",
+    "2026",
+    "trending",
+    "neo-serene",
+    "limelight",
+    "quiet-teal",
+    "digital-lavender",
+    "minimal",
+    "calm",
+    "soft",
+    "pastel",
+    "futuristic",
+    "eye-care",
+    "programmer",
+    "developer"
+  ],
+  "icon": "icon.png",
+  "files": [
+    "themes",
+    "icon.png",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo-Serene Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neo-serene-dark-color-theme.json"
+      },
+      {
+        "label": "Neo-Serene Light",
+        "uiTheme": "vs",
+        "path": "./themes/neo-serene-light-color-theme.json"
+      }
+    ]
+  }
+}
