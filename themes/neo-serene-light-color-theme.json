@@ -29,8 +29,10 @@
     "editorBracketHighlight.foreground4": "#C95A4A",
     "editorBracketHighlight.foreground5": "#C48A00",
 
-    "editorIndentGuide.background": "#D9D4C880",
-    "editorIndentGuide.activeBackground": "#C4BEB2",
+    "editorIndentGuide.background1": "#D9D4C8",
+    "editorIndentGuide.background2": "#D9D4C8",
+    "editorIndentGuide.activeBackground1": "#C4BEB2",
+    "editorIndentGuide.activeBackground2": "#C4BEB2",
     "editorWhitespace.foreground": "#D9D4C880",
 
     "editorHoverWidget.background": "#F0EDE6",
