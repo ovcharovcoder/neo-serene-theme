@@ -1,7 +1,7 @@
 {
-  "name": "neo-serene-theme",
-  "displayName": "Neo-Serene Theme",
-  "description": "A futuristic VS Code theme with trending 2026 colors — soft on the eyes, sharp on the syntax. Featuring Limelight, Quiet Teal, and Digital Lavender for both day and night coding.",
+  "name": "serene-focus-theme",
+  "displayName": "Serene Focus Theme",
+  "description": "Soft on the eyes, sharp on syntax — a modern theme with subtle neon accents for day and night coding.",
   "version": "1.0.0",
   "publisher": "ovcharovcoder",
   "repository": {
@@ -47,14 +47,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neo-Serene Dark",
+        "label": "Serene Focus Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/neo-serene-dark-color-theme.json"
+        "path": "./themes/serene-focus-dark-color-theme.json"
       },
       {
-        "label": "Neo-Serene Light",
+        "label": "Serene Focus Light",
         "uiTheme": "vs",
-        "path": "./themes/neo-serene-light-color-theme.json"
+        "path": "./themes/serene-focus-light-color-theme.json"
       }
     ]
   }
